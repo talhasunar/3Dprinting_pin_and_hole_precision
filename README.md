@@ -26,6 +26,4 @@ MEAN_size_gcode:	Average of G-Code diameters
 
 MEAN_size_measured:	Average of measured diameters
 
-ERROR_nominal_vs_gcode_mm: The error between nominal diameter and G-Code diameter
 ERROR_nominal_vs_measured_mm: The error between nominal diameter and measured diameter
-ERROR_real_gcode_vs_measured_mm: The error between G-Code diameter and G-Code diameter
