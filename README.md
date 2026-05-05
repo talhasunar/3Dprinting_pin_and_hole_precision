@@ -1,6 +1,7 @@
 The legends and explanations in the "data_org.xlsx" file:
 
-\n no: batch number	
+no: batch number	
+
 Outer_first: First printed line strategy.
     1= outer line printed first,
     0= inner line printed first,
